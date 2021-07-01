@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kimhaech/kimhaech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### ME
 - 한국외국어대학교(Hankuk University of Foreign Studies) / 컴퓨터공학부(Division of Computer Engineering)
 - PnP (Game, web team)
