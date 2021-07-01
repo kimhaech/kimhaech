@@ -5,4 +5,4 @@
 - PnP (Game, web team)
 
 ### SNS
-<a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/velog-#58FAAC?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/velog-58FAAC?style=flat-square&logo=velog&logoColor=white"/></a>
