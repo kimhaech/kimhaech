@@ -21,11 +21,12 @@
 <a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/velog-58FAAC?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://blog.naver.com/epiclog" target="_blank"><img src="https://img.shields.io/badge/blog-01DF01?style=flat-square&logo=naver&logoColor=white"/></a>
 
-[![kimhaech's github stats](https://github-readme-stats.vercel.app/api?username=kimhaech)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
- 
-
+### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kimhaech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 
+<hr>
 
+### BOJ Tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=epiclog)](https://solved.ac/epiclog)
