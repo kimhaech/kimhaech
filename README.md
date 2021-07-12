@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ヽ( ´ー`)ノ
 
 ### ME
 - 한국외국어대학교(Hankuk University of Foreign Studies) / 컴퓨터공학부(Division of Computer Engineering)
