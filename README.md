@@ -17,8 +17,8 @@
 </p>
 
 ### Contact
-<a href="epiclog@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="epiclog@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-01DF01?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:epiclog@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:epiclog@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-01DF01?style=flat-square&logo=naver&logoColor=white"/></a>
 
 ### SNS
 <a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
