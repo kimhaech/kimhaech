@@ -21,7 +21,7 @@
 
 ### SNS
 <a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-<a href="https://blog.naver.com/epiclog" target="_blank"><img src="https://img.shields.io/badge/blog-01DF01?style=flat-square&logo=naver&logoColor=white"/></a>
+</a>
 
 <hr>
 
