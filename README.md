@@ -21,7 +21,7 @@
 
 ### SNS
 <a href="https://velog.io/@kimhaech" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-<a href="https://dusty-xylocarp-bc2.notion.site/da48e194ec934f2ea45d409c5c0ae858" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<!-- <a href="https://dusty-xylocarp-bc2.notion.site/da48e194ec934f2ea45d409c5c0ae858" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> -->
 </a>
 
 <hr>
