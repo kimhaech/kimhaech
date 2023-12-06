@@ -5,17 +5,25 @@
 - PnP (Game, web team)
 
 ### Skills
-<b>BackEnd</b>  
-- Node.js(javascript), Spring Boot(java 17), FastApi
+- BackEnd
+  - Node.js(javascript)
+  - Spring Boot(java 17)
+  - FastApi
 
-<b>DevOps</b> 
-- AWS(EC2, S3, RDS, ElastiCache, Beanstalk, LoadBalancer, ECR, EKS), Docker, k8s(use k9s), Github Actions
+- DevOps 
+  - AWS(EC2, S3, RDS, ElastiCache, Beanstalk, LoadBalancer, ECR, EKS)
+  - Docker
+  - k8s
+  - Github Actions
 
-<b>DataBase</b>
-- Postgresql, Mysql, MongoDB, Redis
+- DataBase
+  - Postgresql
+  - Mysql
+  - MongoDB
+  - Redis
 
-<b>FrontEnd</b>
-- React, HTML, CSS
+- FrontEnd
+  - React, HTML, CSS
 
 ### Contact
 <a href="mailto:epiclog@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-01DF01?style=flat-square&logo=naver&logoColor=white"/></a>
