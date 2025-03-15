@@ -1,4 +1,5 @@
 ### ME
+- SHINHAN SECURITIES (HTS developer, 2023.12 ~ )
 - trauminfotech (back-end, 2023.01 ~ 2023.06)
 - trauminfotech (intern - back-end, 2022.09 ~ 2022.12)
 - 한국외국어대학교 (Hankuk University of Foreign Studies, 2017.02 ~ 2023.08)
